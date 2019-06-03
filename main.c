@@ -35,6 +35,5 @@ int main(){
 	}
 	
 	output(npath);
-	system("PAUSE");
 	return 0;
 }
